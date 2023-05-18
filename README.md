@@ -4,7 +4,7 @@ PROCESS AND ASSIGNMENTS
 - We cleaned the raw dataset in the wine.ipynb file together live, so that we agreed on which columns and null values to remove that we wouldn't need in our analysis. 
 - From there, each team member was assigned initial questions and queries we agreed would be interesting to explore. These questions and topics evolved as we each started coding, either realizing that what we initially thought we could analyze in the data can't be done (e.g. correlations between integers and strings), or discovering new subsets of questions based on initial findings. 
 - Each of our individual codes as in files titled [team_member_initials]_wine.ipynb. As such, we each wrote our own analysis based on our individual codes below, so that it's easier to follow along.
-- While we each added our graphs and main points to the slide presentation, Rutva did the majority of the formatting and stylization. Link to slide deck here: https://docs.google.com/presentation/d/1P_9nebzgNoi1qimZPD-XADHueEfawLxfIaZdTpW6NCM/edit?usp=sharing 
+- While we each added our graphs and main points to the slide presentation, Rutva did the majority of the formatting and stylization. Link to slide deck here: https://docs.google.com/presentation/d/1P_9nebzgNoi1qimZPD-XADHueEfawLxfIaZdTpW6NCM/edit?usp=sharing
 
 RUTVA KORAT ANALYSIS (rk_wine.ipynb)
 In this dataset we have about 120,000 row of data on wines that have been reviewed by wine sommeliers and connoisseurs.
