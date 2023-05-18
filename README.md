@@ -6,6 +6,7 @@ PROCESS AND ASSIGNMENTS
 - Each of our individual codes as in files titled [team_member_initials]_wine.ipynb. As such, we each wrote our own analysis based on our individual codes below, so that it's easier to follow along.
 - While we each added our graphs and main points to the slide presentation, Rutva did the majority of the formatting and stylization. Link to slide deck here: https://docs.google.com/presentation/d/1P_9nebzgNoi1qimZPD-XADHueEfawLxfIaZdTpW6NCM/edit?usp=sharing
 
+
 RUTVA KORAT ANALYSIS (rk_wine.ipynb)
 In this dataset we have about 120,000 row of data on wines that have been reviewed by wine sommeliers and connoisseurs.
 Within this dataset we came to know that there are 691 different types of wine that have been reviewed. Within those types of wines we were able to determine how many reviews each type of wine had. In our findings we were able to determine that some types of wine had thousands of reviews while other types only had one review. We decided to look into the 10 most rated wine types to see if there is a relationship between its pricing and rating. We wanted to know if the pricing of the bottle of wine that had been reviewed has any effect on its rated score. 
